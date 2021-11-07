@@ -89,7 +89,7 @@ src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f
 
 - [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DarkSkull93)
 - [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](jonathanemmanuel93@yahho.com)
-- [![Telegram](https://img.shields.io/badge/Sehath%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/I_hate_you_forever_7)
+- [![Telegram](https://img.shields.io/badge/Jonathan%20Profile-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/I_hate_you_forever_7)
 - [![Youtube](https://img.shields.io/badge/YouTube%20Channel-ff0000?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCJmPdyfFnsmt5CbIETVH-SQ)
 
 <h2>Join My Group & Channel 🎉</h2>
